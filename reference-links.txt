@@ -1,2 +1,0 @@
-1. Link for Escape Sequence lists in Python3
-https://www.quackit.com/python/reference/python_3_escape_sequences.cfm

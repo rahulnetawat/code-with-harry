@@ -10,6 +10,6 @@ d2 = { "2017": "Maaya",
 d2["2018"] = "Simba"
 # print(d2["web-series"])
 print(d2)
-del d2 ["2018"]
+del d2 ['2018']
 print(d2)
 # print(d2["2018"])

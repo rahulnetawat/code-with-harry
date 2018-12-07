@@ -5,7 +5,9 @@ mystr = "python is very vast language."
 print(len(mystr)) #Printing string of mystr variable.
 
 print(mystr[0:6]) # String slicing example: Means we want to print selected value instead of whole value of variable.
-print(mystr.count("vast"))
+
+print(mystr.count("vast"))# Printing word or character count.
+
 print(mystr[0:6:2]) # We are skipping every 2nd value of the output.
 
 print(mystr[::3]) # We are skipping here every 3rd value of the output from the whole string.

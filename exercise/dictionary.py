@@ -1,7 +1,7 @@
-myword = {"Rahul": "DevOps Engineer",
-        "Rohit": "Examiner",
-        "Dheeraj": "Gym Trainer",
-        "Chetan": "Jhabua Power Plant"
+myword = {"centos": "Open source server distribution.",
+        "ubuntu": "Open source desktop distribution",
+        "redhat": "Propriatory OS.",
+        "arch": "Open Source desktop and client distribution."
         }
 print(myword.keys())
 print("Check Keys name from above line.")

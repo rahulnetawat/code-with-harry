@@ -1,9 +1,31 @@
-var_1 = 100
-var_2 = 22
+# if-else & Elif tutorial.
 
-var_3 = int(input())
+# var1 = 6
+# var2 = 56
+#
+# var3 = int(input())
+#
+# if var3>var2:
+#     print("Greater.")
+# elif var3==var2:
+#     print("Equal")
+# else:
+#     print("Lesser.")
 
-if var_1 > var_3:
-    print("Variable 1 is Greater")
+# list1 = [5, 7, 3]
+# print(5 in list1)
+#
+# if 5 in list1:
+#     print("Yes, it is in the list.")
+
+age1 = int(input())
+
+# print("My age is", age1)
+if age1>18:
+    print("Eligible for driving.")
+
+elif age1==18:
+    print("Please came back after sometime.")
+
 else:
-    print("Variable 3 is Greater")
+    print("Not Eligible for driving.")

@@ -1,0 +1,2 @@
+Hello this file meant to be FILE IO basics prctise.
+This is only for testing purpose.

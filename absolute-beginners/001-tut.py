@@ -1,6 +1,8 @@
 # First tutorial
 # Date: 05-December-2018
 # Comments, Escape Sequence and Print Statements.
+# let's start learning Python and i know i will be the best coder  ...
+# A big thanks to harry bhai.
 
 # This is first comment example.
 print("Hello World !!!!")
@@ -11,7 +13,7 @@ With triple qoute we can comment multiple lines.
 '''
 
 # end is merging last print line.
-print("This is first print.", end="")
+print("This is first print.", end="")  #by using end="it will print horrizontally"
 print("This is second print.")
 
 # end with space.

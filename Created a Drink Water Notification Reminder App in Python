@@ -1,0 +1,12 @@
+import time
+
+from plyer import notification
+if __name__ == '__main__':
+    while True:
+        notification.notify(
+            title = "**Please drink water!!",
+            message= "Water is an inorganic, transparent, tasteless, odorless, and nearly colorless chemical substance, which is the main constituent of Earth's hydrosphere and the fluids of all known living organisms.",
+            app_icon ="F:\PythonPreparation\Chrisl21-Minecraft-Bucket-Water.ico",
+            timeout = 5
+        )
+        time.sleep(60*60)

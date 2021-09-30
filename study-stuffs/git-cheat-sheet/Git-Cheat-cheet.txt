@@ -1,0 +1,67 @@
+Most important Git Commands Which will help you understand git
+
+
+
+ git config --global user.name "Fabio"
+ 
+ git config --global user.email "signups@fabiopacifici.com
+ 
+ git init
+ 
+ git add filename_here
+ 
+ git add .
+ 
+ git status
+ 
+ git commit
+ 
+ git commit -m "your commit message here"
+ 
+ git commit -a -m"your commit message here"
+ 
+ git log
+ 
+ git log -p
+ 
+ git show commit-id
+ 
+ git log --stat
+ 
+ git diff
+ git diff all_checks.py
+ git diff --staged
+ 
+ git rm filename
+ 
+ git mv oldfile newfile
+ 
+ git checkout filename
+ 
+ git commit --amend
+ 
+ git revert HEAD
+ 
+ git revert comit_id_here
+ 
+ git branch branch_name
+ 
+ git checkout branch_name
+ 
+ git checkout -b branch_name
+ 
+ git branch -d branch_name
+ 
+ git merge branch_name
+ 
+ git remote -v
+ 
+ git remote show origin
+ 
+ git push
+ 
+ git pull
+ 
+ git branch -r
+ 
+ git push -u origin branch_name 
